@@ -86,7 +86,7 @@ Marsunso 是一个轻量级的 Chrome 书签快捷搜索插件，旨在解决传
 
 ### 方式二：手动安装
 
-1. **下载插件**：从 [GitHub Releases](https://github.com/Helchan/Marsunso/releases) 下载最新版本的 ZIP 文件
+1. **下载插件**：从 [GitHub Releases](https://github.com/Helchan/Marsunso-Release/releases) 下载最新版本的 ZIP 文件
 
 2. **解压文件**：将下载的 ZIP 文件解压到任意文件夹
 
